@@ -1,0 +1,1 @@
+"""SYA package initialization module"""
